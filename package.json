@@ -1,0 +1,21 @@
+{
+  "name": "rannikkokartat-mbtiles",
+  "version": "1.0.0",
+  "description": "Liikenneviraston rannikkokartat MBTiles-tiedostona",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vokkim/rannikkokartat-mbtiles.git"
+  },
+  "license": "CC-BY",
+  "bugs": {
+    "url": "https://github.com/vokkim/rannikkokartat-mbtiles/issues"
+  },
+  "homepage": "https://github.com/vokkim/rannikkokartat-mbtiles#readme",
+  "dependencies": {
+    "agentkeepalive": "3.2.0",
+    "aws-sdk": "2.72.0",
+    "baconjs": "0.7.93",
+    "lodash": "4.17.4",
+    "sqlite3": "3.1.8"
+  }
+}

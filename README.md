@@ -1,6 +1,8 @@
 # Rannikkokartat
 
-Liikenneviraston rannikkokartat MBTiles-tiedostona: https://drive.google.com/file/d/0B2ZBtWtdUvsfbVBfc1hlSGRTaXM/ (5.32 GB)
+Liikenneviraston rannikkokartat
+ * MBTiles-tiedostona: https://drive.google.com/file/d/0B2ZBtWtdUvsfbVBfc1hlSGRTaXM/ (5.32 GB)
+ * Hostattuna: http://rannikko.merikartat.space/v1/{z}/{x}/{y}.png
 
 - Tasot 4-10: `Yleiskartat`
 - Tasot 11-15: `Rannikkokartat`
@@ -10,7 +12,6 @@ Lähde: Liikennevirasto. Ei navigointikäyttöön. Ei täytä virallisen merikar
 Versio 1.0 ladattu 1.6.2017 liikenneviraston WMTS-palvelusta: https://julkinen.liikennevirasto.fi/rasteripalvelu/wmts
 
 Kartta-aineistojen käyttölupa on [Creative Commons 4.0 Nimeä ja käytettävä attribuutio](https://creativecommons.org/licenses/by/4.0/).
-
 
 ## Karttojen luonti
 
