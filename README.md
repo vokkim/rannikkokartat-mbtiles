@@ -2,7 +2,6 @@
 
 Liikenneviraston rannikkokartat
  * MBTiles-tiedostona: https://drive.google.com/file/d/0B2ZBtWtdUvsfdFkzYnoyeDhtNG8/ (5.32 GB)
- * Hostattuna: http://rannikko.merikartat.space/v1/{z}/{x}/{y}.png
 
 - Tasot 4-10: `Yleiskartat`
 - Tasot 11-15: `Rannikkokartat`
