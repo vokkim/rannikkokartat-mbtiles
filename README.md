@@ -1,7 +1,7 @@
 # Rannikkokartat
 
-Liikenneviraston rannikkokartat
- * MBTiles-tiedostona: https://drive.google.com/file/d/0B2ZBtWtdUvsfdFkzYnoyeDhtNG8/ (5.32 GB)
+Liikenneviraston 2017 rannikkokartat
+ * MBTiles-tiedostona: https://drive.google.com/file/d/0B2ZBtWtdUvsfdFkzYnoyeDhtNG8/view?usp=sharing&resourcekey=0-kjbN12NpKadJhb9yvU3p0A (5.32 GB)
 
 - Tasot 4-10: `Yleiskartat`
 - Tasot 11-15: `Rannikkokartat`
