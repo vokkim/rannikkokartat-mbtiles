@@ -11,11 +11,5 @@
     "url": "https://github.com/vokkim/rannikkokartat-mbtiles/issues"
   },
   "homepage": "https://github.com/vokkim/rannikkokartat-mbtiles#readme",
-  "dependencies": {
-    "agentkeepalive": "3.2.0",
-    "aws-sdk": "2.72.0",
-    "baconjs": "0.7.93",
-    "lodash": "4.17.4",
-    "sqlite3": "3.1.8"
-  }
+  "dependencies": {}
 }
